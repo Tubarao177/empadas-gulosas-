@@ -1,0 +1,36 @@
+#titulo{
+    background-color: rgb(35, 224, 224);
+    text-align: center;
+    color: white;
+    padding: 15px;
+    font-size: x-large;
+}
+
+#menu{
+    background-color: rgb(56, 124, 142);
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    font-size: x-large;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 0 5;
+}
+
+nav a:hover{
+    color: black ;
+    background-color: aliceblue;
+}
+
+#card{
+    background-color: aqua;
+    width: 70%;
+    text-align: center;
+    margin-left: 250px;
+}
+
+body{
+    background-color: gray;
+}
