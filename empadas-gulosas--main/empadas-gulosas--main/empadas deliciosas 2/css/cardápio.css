@@ -1,0 +1,25 @@
+#Titulo{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+#Menu{
+    background-color: black;
+    text-align: center;
+}
+
+#Menu a{
+    text-decoration: none;
+}
+
+#Card{
+    width: 70%;
+    background-color: rgb(184, 202, 211);
+  margin: 0 auto;
+}
+
+#imagens{
+    margin-left: 150px;
+}
