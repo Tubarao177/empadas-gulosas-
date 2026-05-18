@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(to right, blue, white);
+}
+
+#Titulo{
+    background-color: color-mix(in hsl shorter hue, color percentage, color percentage);
+    color:black;
+    text-align: center;
+}
