@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(222, 216, 155);
+}
+
+#menu{
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+#nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    font-size: larger;
+}
